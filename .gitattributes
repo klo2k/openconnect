@@ -1,0 +1,3 @@
+# Don't change line ending; Check-out as-is, commit as-is.
+# i.e.: git config --global core.autocrlf false
+* -text
